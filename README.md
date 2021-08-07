@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/Ogulcanketenci" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/emre_salvo" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Youisss" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Ziyaretçi&color=6182e1" alt="Youiss"/>
+</br><img src="https://komarev.com/ghpvc/?username=Youisss&color=dc143c&label=Ziyaretçi&color=6182e1" alt="Youiss"/>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/420366170428801025?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/420366170428801025)
 
