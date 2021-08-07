@@ -8,7 +8,7 @@
 <a href="https://github.com/Youisss" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Ziyaretçi&color=6182e1" alt="Eresbos"/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/420366170428801025)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/420366170428801025?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/420366170428801025)
 ## Langauges I Study:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
