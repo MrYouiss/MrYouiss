@@ -23,10 +23,8 @@
 ### Contact with me 📝
 
 
-[<img align="left" alt="youiss.net" width="40px" src="https://media.discordapp.net/attachments/608711488806584330/870239936811532298/Kedyy_gif.gif" />][website]
-[<img align="left" alt="emre_ketencii | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
-
-<br />
+Youiss ☨#0001
+youissker@gmail.com
 
 ---
 
