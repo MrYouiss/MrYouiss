@@ -23,7 +23,7 @@
 ### Contact with me 📝
 
 
-Youiss ☨#0001
+Youiss#0001
 youissker@gmail.com
 
 ---
