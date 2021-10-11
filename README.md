@@ -1,15 +1,4 @@
-# Hello World, I'm Oğulcan Emre - Youiss [Youiss.net][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## I'm a Discord bot Developer 
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript,HTML,CSS React etc.
-- 📚 I’m currently learning everything about Pinpad Software in İngenico
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Valorant :D
-
----
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
