@@ -12,7 +12,6 @@
 ### Contact with me 📝
 
 
-Github#0001
 youissker@gmail.com
 
 ---
