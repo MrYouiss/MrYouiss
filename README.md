@@ -13,7 +13,6 @@
 
 
 youissker@gmail.com  
-`emre#0001
 
 ---
 
