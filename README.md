@@ -6,7 +6,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9k5p1d9or9iqs2yqkjq7b4o12&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:420366170428801025)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:420366170428801025)](https://discord.com/users/:420366170428801025)
 
 ---
 
