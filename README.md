@@ -6,7 +6,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9k5p1d9or9iqs2yqkjq7b4o12&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/420366170428801025?theme=black&bg=1c1c1c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/420366170428801025)
+[![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/420366170428801025?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Develobır)](https://discord.com/users/420366170428801025)
 ---
 
 
