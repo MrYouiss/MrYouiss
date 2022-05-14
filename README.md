@@ -14,6 +14,7 @@
 
 ### Bana Ulaşın 📝
 youissker@gmail.com  
+ "https://discord.com/users/420366170428801025"
 
 ### Kullandığım Diller Ve Araçlar 🛠 
 
