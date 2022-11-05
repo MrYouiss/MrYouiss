@@ -10,7 +10,7 @@
 
 [![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/420366170428801025?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Develobır)](https://discord.com/users/420366170428801025)
 ---
-### Artık Discord Sunucularına Özel bot yapmıyorum. 
+
 
 ### Bana Ulaşın 📝
 youissker@gmail.com  
